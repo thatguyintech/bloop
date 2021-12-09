@@ -9,3 +9,9 @@ This project showcases how to:
 Use `npm init` to install dependencies.
 
 Use `npm start` to load the website locally.
+
+This is what the site will look like when you have successfully gm'd:
+![gm](./gm)
+
+This is what the site will look like when you have turned the gm toggle off: 
+![gn](./gn)
