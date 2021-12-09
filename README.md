@@ -69,6 +69,11 @@ This is what the site will look like in gm mode:
 This is what the site will look like in gn mode: 
 ![gn](./gn.png)
 
+Click on the `GM?` button to see what the current state of the GM variable is in the browser's
+console log.
+
+Click on the `GM` button to toggle the GM variable value on the blockchain.
+
 ## What is Alchemy?
 
 https://www.alchemy.com/
