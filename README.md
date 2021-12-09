@@ -1,15 +1,11 @@
-# Basic Sample Hardhat Project
+# GM Website Full-Stack Solidity Smart Contract Demo
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project showcases how to:
+1. Write a Solidity smart contract
+2. Create a Hardhat deploy script
+3. Deploy to Rinkeby testnet using Alchemy
+4. Build a simple React frontend website that reads and writes to the Ethereum blockchain using the smart contract functions
 
-Try running some of the following tasks:
+Use `npm init` to install dependencies.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Use `npm start` to load the website locally.
