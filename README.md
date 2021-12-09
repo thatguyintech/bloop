@@ -7,7 +7,7 @@ This project showcases how to:
 4. Build a simple React frontend website that reads and writes to the Ethereum blockchain using the smart contract functions
 
 ## Get started in 10 minutes or less.
-0. Set up ![Alchemy](https://www.alchemy.com) and ![MetaMask](https://metamask.io/) accounts.
+0. Set up [Alchemy](https://www.alchemy.com) and [MetaMask](https://metamask.io/) accounts.
 - Set up an Alchemy app on the Rinkeby test network.
 - Enable MetaMask testnets view: 
 
@@ -39,8 +39,8 @@ REACT_APP_CONTRACT_ADDRESS=<your contract address after deploying to rinkeby>
    - Ethereum Foundation Rinkeby Faucet: https://faucet.rinkeby.io/
 
    Faucets are notoriously hard to keep up and running, so if you have trouble getting
-   some, feel free to tweet ![@thatguyintech](https://twitter.com/thatguyintech) or
-   ask around in the ![Alchemy Discord Server](https://discord.gg/x8TNmRttre). Be sure
+   some, feel free to tweet [@thatguyintech](https://twitter.com/thatguyintech) or
+   ask around in the [Alchemy Discord Server](https://discord.gg/x8TNmRttre). Be sure
    to mention this repo!
 
 5. Deploy your contract to the Rinkeby testnet.
