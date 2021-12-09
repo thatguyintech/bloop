@@ -6,6 +6,8 @@ import "hardhat/console.sol";
 contract Greeter {
     bool private gm;
 
+    event GM(address gmer, bool newGmValue);
+
     constructor() {
         console.log("Deploying a Greeter with gm value:", gm);
         gm = true;
@@ -18,5 +20,6 @@ contract Greeter {
     function toggleGm() public {
         console.log("Changing gm from %s to %s", gm, !gm);
         gm = !gm;
+        emit GM(msg.sender, gm);
     }
 }
